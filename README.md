@@ -1,4 +1,4 @@
-👋, I’m Swaifa!
+👋 Hey, I’m Swaifa!
 
 I’m currently diving deep into the world of Big Data with a Master’s in Professional Computer Science @ SFU, Canada. 
 
@@ -21,3 +21,11 @@ While many people worry that AI might lead to job losses, I’m focused on lever
 I believe I can make the most impact by blending my technical expertise with operational skills to collaborate with product and business teams, driving the launch of groundbreaking technologies.
 
 If you’re interested in chatting about anything related to technology, data, or people, feel free to send me a DM or email me at swaifa.haque@gmail.com.
+
+---
+
+☕ **Bonus: Wanna see my chaotic caffeine-fueled side?**
+
+I built [**Caffeine Rush**](https://swaifa.github.io/dino-game/) — a quirky twist on the Chrome Dino Game, where a hyper little coffee cup runs through trees to avoid spilling before code review hits.
+
+▶️ [Click here to play](https://swaifa.github.io/dino-game/) — and try not to spill the coffee.
