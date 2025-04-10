@@ -1,4 +1,4 @@
-👋 Hey, I’m Swaifa!
+## 👋 Hey, I’m Swaifa!
 
 I’m currently diving deep into the world of Big Data with a Master’s in Professional Computer Science @ SFU, Canada. 
 
@@ -24,7 +24,7 @@ If you’re interested in chatting about anything related to technology, data, o
 
 ---
 
-## ☕ Want to take a break? I built the Dino Game, but with coffee as the main character (because that's my life)
+# ☕ Want to take a break? I built the Dino Game, but with coffee as the main character (because that's my life)
 
 ▶️ [Click here to play Caffeine Rush](https://swaifa.github.io/dino-game/)
 
