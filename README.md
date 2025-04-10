@@ -24,8 +24,11 @@ If you’re interested in chatting about anything related to technology, data, o
 
 ---
 
-☕ **Bonus: Wanna see my chaotic caffeine-fueled side?**
+# ☕ Caffeine Rush – Play My Coffee-Fueled Game!
 
-I built [**Caffeine Rush**](https://swaifa.github.io/dino-game/) — a quirky twist on the Chrome Dino Game, where a hyper little coffee cup runs through trees to avoid spilling before code review hits.
+![Play Caffeine Rush](https://raw.githubusercontent.com/swaifa/dino-game/main/docs/screenshot.png)
 
-▶️ [Click here to play](https://swaifa.github.io/dino-game/) — and try not to spill the coffee.
+Click the image above to play the game, and see if you can avoid spilling the coffee before your code review!
+
+▶️ [Click here to play Caffeine Rush](https://swaifa.github.io/dino-game/)
+
