@@ -24,7 +24,7 @@ If you’re interested in chatting about anything related to technology, data, o
 
 ---
 
-##☕ Want to take a break? I built the Dino Game, but with coffee as the main character (because that's my life)
+## ☕ Want to take a break? I built the Dino Game, but with coffee as the main character (because that's my life)
 
 ▶️ [Click here to play Caffeine Rush](https://swaifa.github.io/dino-game/)
 
