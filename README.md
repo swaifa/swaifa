@@ -24,11 +24,7 @@ If you’re interested in chatting about anything related to technology, data, o
 
 ---
 
-# ☕ Caffeine Rush – Play My Coffee-Fueled Game!
-
-![Play Caffeine Rush](https://raw.githubusercontent.com/swaifa/dino-game/main/docs/screenshot.png)
-
-Click the image above to play the game, and see if you can avoid spilling the coffee before your code review!
+##☕ Want to take a break? I built the Dino Game, but with coffee as the main character (because that's my life)
 
 ▶️ [Click here to play Caffeine Rush](https://swaifa.github.io/dino-game/)
 
